@@ -2,7 +2,7 @@
 var path = require('path');
 
 // Import the list of friends
-var friends = require('../data/friends.js');
+var friends = require('../data/friends');
 
 // Export routes
 module.exports = function(app) {

@@ -1,15 +1,14 @@
 var friends = [
   {
     name: "Billy Bob",
-    photo: 
+    photo:
       "https://i.pinimg.com/originals/45/a3/9f/45a39fbf68fb2594eb6ae7633752dd9a.png",
     scores: [5, 1, 4, 4, 5, 1, 2, 5, 4, 1]
   },
 
   {
     name: "Jim Bob",
-    photo:
-      "https://live.staticflickr.com/47/150246485_6cd3325e28_z.jpg",
+    photo: "https://live.staticflickr.com/47/150246485_6cd3325e28_z.jpg",
     scores: [5, 2, 2, 2, 4, 1, 3, 2, 5, 5]
   },
 
