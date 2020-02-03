@@ -1,8 +1,8 @@
 var friends = [
   {
     name: "Billy Bob",
-    photo:
-      "https://i.pinimg.com/originals/45/a3/9f/45a39fbf68fb2594eb6ae7633752dd9a.png",
+    photo: "./BillBog.jpg",
+      // "https://i.pinimg.com/originals/45/a3/9f/45a39fbf68fb2594eb6ae7633752dd9a.png",
     scores: [5, 1, 4, 4, 5, 1, 2, 5, 4, 1]
   },
 
