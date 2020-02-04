@@ -13,12 +13,13 @@ module.exports = function(app) {
 
 	// Add new friend
 	app.post('/api/friends', function(req, res) {
+		// console.log("YOURE IN POST REQ")
 		// Capture the user input object
 		var userInput = req.body;
 		// console.log('userInput = ' + JSON.stringify(userInput));
 
 		var userResponses = userInput.scores;
-		// console.log('userResponses = ' + userResponses);
+		console.log('userResponses = ' + userResponses);
 
 		// Calculate friend match
 		var matchName = '';
@@ -43,9 +44,10 @@ module.exports = function(app) {
 				matchImage = friends[i].photo;
 			}
 		}
-
+		console.log("++++++++")
+		console.log(matchImage);
 		// Add new user
-		friends.push(userInput);
+		//friends.push(matchImage);
 
 		// Send appropriate response
 		res.json({status: 'OK', matchName: matchName, matchImage: matchImage});

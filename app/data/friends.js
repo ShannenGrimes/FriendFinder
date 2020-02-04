@@ -1,7 +1,7 @@
 var friends = [
   {
     name: "Billy Bob",
-    photo: "./BillBog.jpg",
+    photo: "https://live.staticflickr.com/47/150246485_6cd3325e28_z.jpg",
       // "https://i.pinimg.com/originals/45/a3/9f/45a39fbf68fb2594eb6ae7633752dd9a.png",
     scores: [5, 1, 4, 4, 5, 1, 2, 5, 4, 1]
   },
@@ -15,7 +15,7 @@ var friends = [
   {
     name: "Betty Lou",
     photo:
-      "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiO8tjwuKrnAhUPZKwKHdiZADUQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fgreyloch%2F4769768096%2F&psig=AOvVaw0zPR5D9Zhf6VgRVtXhWu9n&ust=1580443472808153",
+      "https://www.goohttps://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/11234019/Bulldog-standing-in-the-grass.jpggle.com/url?sa=i&source=images&cd=&ved=2ahUKEwiO8tjwuKrnAhUPZKwKHdiZADUQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fgreyloch%2F4769768096%2F&psig=AOvVaw0zPR5D9Zhf6VgRVtXhWu9n&ust=1580443472808153",
     scores: [4, 2, 5, 1, 3, 2, 2, 1, 3, 2]
   },
 
