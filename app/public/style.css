@@ -1,0 +1,39 @@
+body {
+    background-image: url('../img/duck.jpg');
+    background-size: 100px;
+    background-repeat: repeat;
+    background-color: rgb(255, 165, 0);
+    padding-bottom: 70px;
+}
+
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: cornsilk;
+    text-align: center;
+}
+
+.jumbotron h1 {
+    color: rgb(255, 153, 0);
+    font-family: 'Dosis', sans-serif;    
+}
+
+.jumbotron h2 {
+    color: green;
+    font-family: 'Caveat', cursive;
+}
+
+#main {
+    text-align: center;
+    background-color: blanchedalmond;
+    color: green;
+    font-weight: bold;
+}
+
+.container a {
+    color: black;
+    font-weight: bold;
+}
+
