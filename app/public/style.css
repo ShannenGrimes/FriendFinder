@@ -1,5 +1,5 @@
 body {
-    background-image: url('../img/duck.jpg');
+    background-image: url('/img/duck.jpg');
     background-size: 100px;
     background-repeat: repeat;
     background-color: rgb(255, 165, 0);
